@@ -1,0 +1,15 @@
+[Version]
+1
+[Name]
+IDT-Ilmn RNA UD Indexes SetABCD Ligation
+[PlateExtension]
+rnaudlig384
+[Settings]
+IndexOnly
+Adapter	CTGTCTCTTATACACATCT
+[ChildIndexKits]
+IDT-Ilmn RNA UD Indexes SetA Ligation	A
+IDT-Ilmn RNA UD Indexes SetB Ligation	B
+IDT-Ilmn RNA UD Indexes SetC Ligation	C
+IDT-Ilmn RNA UD Indexes SetD Ligation	D
+[DefaultLayout_DualIndex]

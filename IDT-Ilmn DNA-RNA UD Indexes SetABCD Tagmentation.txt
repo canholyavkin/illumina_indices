@@ -1,0 +1,15 @@
+[Version]
+1
+[Name]
+IDT-Ilmn DNA-RNA UD Indexes SetABCD Tagmentation
+[PlateExtension]
+dnarnaudtag384
+[Settings]
+IndexOnly
+Adapter	CTGTCTCTTATACACATCT
+[ChildIndexKits]
+IDT-Ilmn DNA-RNA UD Indexes SetA Tagmentation	A
+IDT-Ilmn DNA-RNA UD Indexes SetB Tagmentation	B
+IDT-Ilmn DNA-RNA UD Indexes SetC Tagmentation	C
+IDT-Ilmn DNA-RNA UD Indexes SetD Tagmentation	D
+[DefaultLayout_DualIndex]
